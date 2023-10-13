@@ -5,3 +5,25 @@
     font-family: 'Lily Script One'
 }
 
+header{
+    background-color: rgb(23, 23, 97);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    padding-left: 15px;
+}
+
+
