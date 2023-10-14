@@ -38,6 +38,8 @@ li{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    flex-wrap: wrap;
+    gap: 20px
 }
 
 /* estilização do rodapé (footer) */
@@ -49,3 +51,4 @@ footer{
     justify-content: space-evenly;
 }
 
+/* responsividade do site */
